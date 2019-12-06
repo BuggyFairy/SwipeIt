@@ -1,0 +1,2 @@
+include ':app', ':swipeit'
+rootProject.name='SwipeIt'
