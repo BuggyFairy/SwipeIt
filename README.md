@@ -1,3 +1,7 @@
+<h1> How does it look? </h1>
+
+![Add as many buttons as you want](gifs/swipe-example.gif)
+
 <h1> How to integrate </h1>
 
 <h3> Maven: </h3>
