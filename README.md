@@ -80,7 +80,7 @@ Step 1: Add it in your root build.gradle at the end of repositories:
   buttonList.add(deleteBtn);
   ```
   
-  <h4> step 4: </h4> Instantiate the RecyclerViewSwipeController
+  <h4> Step 4: </h4> Instantiate the RecyclerViewSwipeController
   
   You have to provide:
   
@@ -95,3 +95,4 @@ Step 1: Add it in your root build.gradle at the end of repositories:
   new RecyclerViewSwipeController(mContext, mRecyclerView, 200, buttonList);
   ```
   
+  <h4> Step 5: </h4> Your are done!
